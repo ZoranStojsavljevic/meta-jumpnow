@@ -14,13 +14,13 @@ Currently used for the following boards
 This layer depends on:
 
     URI: git://git.yoctoproject.org/poky.git
-    branch: gatesgarth 
+    branch: hardknott
 
     URI: git://git.openembedded.org/meta-openembedded
-    branch: gatesgarth 
+    branch: hardknott
 
     URI: git://git.yoctoproject.org/meta-security.git
-    branch: gatesgarth 
+    branch: hardknott
 
 meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
 meta-jumpnow branch hardknott author: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
