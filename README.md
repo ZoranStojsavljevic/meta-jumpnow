@@ -22,5 +22,5 @@ This layer depends on:
     URI: git://git.yoctoproject.org/meta-security.git
     branch: gatesgarth 
 
-
 meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
+meta-jumpnow branch hardknott author: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
