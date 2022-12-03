@@ -23,4 +23,4 @@ This layer depends on:
     branch: kirkstone
 
 meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
-meta-jumpnow branch hardknott author: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
+meta-jumpnow layer maintainer: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
