@@ -14,14 +14,13 @@ Currently used for the following boards
 This layer depends on:
 
     URI: git://git.yoctoproject.org/poky.git
-    branch: mickledore
+    branch: nanbield
 
     URI: git://git.openembedded.org/meta-openembedded
-    branch: mickledore
+    branch: nanbield
 
     URI: git://git.yoctoproject.org/meta-security.git
-    branch: mickledore
+    branch: nanbield
 
 meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
-
 meta-jumpnow layer maintainer: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
