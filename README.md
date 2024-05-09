@@ -10,17 +10,16 @@ Currently used for the following boards
 * Wandboard
 * Xilinx (zynq7)
 
-
 This layer depends on:
 
-    URI: git://git.yoctoproject.org/poky.git
-    branch: nanbield
+	URI: git://git.yoctoproject.org/poky.git
+	branch: scarthgap
 
-    URI: git://git.openembedded.org/meta-openembedded
-    branch: nanbield
+	URI: git://git.openembedded.org/meta-openembedded
+	branch: scarthgap
 
-    URI: git://git.yoctoproject.org/meta-security.git
-    branch: nanbield
+	URI: git://git.yoctoproject.org/meta-security.git
+	branch: scarthgap
 
-meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
-meta-jumpnow layer maintainer: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
+	meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
+	meta-jumpnow layer maintainer: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
