@@ -7,7 +7,7 @@ SRC_URI = "file://term-prompt.sh"
 
 PR = "0"
 
-S = "${WORKDIR}"
+S = "${WORKDIR}/term-prompt-${PV}.bb"
 
 do_install() {
     install -d ${D}${sysconfdir}/profile.d

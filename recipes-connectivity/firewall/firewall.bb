@@ -6,7 +6,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 SRC_URI += "file://init \
             file://firewall.rules"
 
-S = "${WORKDIR}"
+S = "${WORKDIR}/firewall.bb"
 
 inherit update-rc.d
 INITSCRIPT_NAME = "firewall"
