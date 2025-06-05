@@ -13,13 +13,13 @@ Currently used for the following boards
 This layer depends on:
 
 	URI: git://git.yoctoproject.org/poky.git
-	branch: styhead
+	branch: walnascar
 
 	URI: git://git.openembedded.org/meta-openembedded
-	branch: styhead
+	branch: walnascar
 
 	URI: git://git.yoctoproject.org/meta-security.git
-	branch: styhead
+	branch: walnascar
 
-	meta-jumpnow layer maintainer: Scott Ellis <scott@jumpnowtek.com>
-	meta-jumpnow layer maintainer: Zoran Stojsavljevic <zoran.stojsavljevic@gmail.com>
+	meta-jumpnow layer initial creator: Scott Ellis <scott@jumpnowtek.com>
+	meta-jumpnow layer current maintainer: <zoran.stojsavljevic@gmail.com>
