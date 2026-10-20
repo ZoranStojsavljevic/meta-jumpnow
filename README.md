@@ -13,13 +13,13 @@ Currently used for the following boards
 This layer depends on:
 
 	URI: git://git.yoctoproject.org/poky.git
-	branch: walnascar
+	branch: wrynose
 
 	URI: git://git.openembedded.org/meta-openembedded
-	branch: walnascar
+	branch: wrynose
 
 	URI: git://git.yoctoproject.org/meta-security.git
-	branch: walnascar
+	branch: wrynose
 
 	meta-jumpnow layer initial creator: Scott Ellis <scott@jumpnowtek.com>
 	meta-jumpnow layer current maintainer: <zoran.stojsavljevic@gmail.com>
